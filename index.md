@@ -14,7 +14,7 @@ This project provides insight into the performance of Roots Diner social media p
 
 **Tools Used:** Microsoft Excel, Power BI
 
-**Link to project:** ! [view full project](https://github.com/Awellle/social-media-analysis)
+**Link to project:**  [view full project](https://github.com/Awellle/social-media-analysis)
 
 # Contact me
 Linkedin: https://www.linkedin.com/in/joan-ajayi-972652250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
