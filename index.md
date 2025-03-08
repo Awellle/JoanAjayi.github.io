@@ -20,3 +20,5 @@ This project provides insight into the performance of Roots Diner social media p
 Linkedin: https://www.linkedin.com/in/joan-ajayi-972652250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 Phone number: 08101078933
+
+Check out my CV here [Resume}(https://docs.google.com/document/d/1ngEjpnT2odLtXcQR470wrYeuT6v170p_Lfojtszh2A0/edit?usp=sharing)
