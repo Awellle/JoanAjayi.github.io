@@ -1,4 +1,3 @@
-title: 
 Hi there! I'm glad you found me. My name is Joan and I am a Data Analyst
 
 # About me
